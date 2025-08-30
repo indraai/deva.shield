@@ -1,0 +1,108 @@
+{
+  "id": "72d29d06-a871-4e5c-942c-7a2d7d21973d",
+  "name": "@indra.ai/deva.shield",
+  "version": "0.0.1",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Shield Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.shield.git"
+  },
+  "keywords": [
+    "Shield",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.shield/issues"
+  },
+  "homepage": "https://deva.space/devas/shield",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.45"
+  },
+  "data": {
+    "agent": {
+      "id": "d58b3f33-12a7-4cb4-9fa4-cbc983b58b3",
+      "key": "shield",
+      "prompt": {
+        "emoji": "🛡️",
+        "text": "Shield",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Shield Deva",
+        "hashtag": "#Shield",
+        "title": "Shield Deva",
+        "subtitle": "Shield Deva for the VectorGuardShield.",
+        "describe": "The Shield Deva",
+        "post": "Shield.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,ShieldDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Cyber Security Shield.",
+        "system": "Deva.world.shield",
+        "layout": "default",
+        "emoji": "/assets/devas/shield/emoji.png",
+        "avatar": "/assets/devas/shield/avatar.png",
+        "image": "/assets/devas/shield/image.png",
+        "background": "/assets/devas/shield/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "none",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Saturday, August 30, 2025 - 4:43:23 AM",
+        "modified": "Saturday, August 30, 2025 - 4:43:23 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Shield is creating a uid",
+        "status": "Shield is viewing the status",
+        "help": "Shield is viewing the help",
+        "artist": "Shield creating",
+        "live": "Shield livechat",
+        "ask": "Shield asking",
+        "reply": "Shield reply",
+        "comment": "Shield comment"
+      }
+    }
+  }
+}
