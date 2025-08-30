@@ -45,7 +45,41 @@ const SHIELD = new Deva({
   },
   modules: {},
   devas: {},
-  func: {},
+  func: {
+    echo(opts) {
+      const {id, agent, client, md5, sha256, sha512} = opts;
+      const created = Date.now();
+    
+      this.action('func', `echo:${id}`);
+      this.state('set', `echo:${id}`);
+      const echo_data = [
+        `::begin:shield:${id}`,
+        `transport: ${id}`, 
+        `client: ${client.id}`, 
+        `agent: ${agent.id}`, 
+        `created: ${created}`, 
+        `md5: ${md5}`, 
+        `sha256:${sha256}`, 
+        `sha512:${sha512}`,
+        `::end:shield:${id}`,
+      ].join('\n');
+    
+      // stub for later features right now just echo into the system process for SIGINT monitoring.
+      const echo = spawn('echo', [echo_data])
+      echo.stdout.on('data', data => {
+        this.state('data', `echo:stdout:${id}`);
+      });
+      echo.stderr.on('data', err => {
+        this.state('error', `echo:stderr:${id}`);
+        this.error(err, opts);
+      });
+      echo.on('close', data => {
+        this.state('close', `echo:${id}`);        
+      });
+      this.state('return', `echo:${id}`);
+      return echo_data;
+    }    
+  },
   methods: {},
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);
