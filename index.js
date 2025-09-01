@@ -37,10 +37,10 @@ const SHIELD = new Deva({
   },
   listeners: {
     'devacore:question'(packet) {
-      const echo = this.methods.echo('shield', 'question', packet.q);
+      const echo = this.methods.echo('shield', 'q', packet);
     },
     'devacore:answer'(packet) {
-      const echo = this.methods.echo('shield', 'answer', packet.a);
+      const echo = this.methods.echo('shield', 'a', packet);
     }
   },
   modules: {},
