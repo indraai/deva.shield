@@ -1,10 +1,39 @@
 {
-  "id": "72d29d06-a871-4e5c-942c-7a2d7d21973d",
+  "id": "64058880534259599723",
   "name": "@indra.ai/deva.shield",
   "version": "0.0.64",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:64058880534259599723 LICENSE.md",
+  "VLA": {
+    "uid": "64058880534259599723",
+    "time": 1758325938888,
+    "date": "Friday, September 19, 2025 - 4:52:18 PM",
+    "client": "kMmIdXdDdQe1XXZEdqvogpbaAIquiVX11GDBaU+fy1E=",
+    "agent": "4Wl0rhmQ6I+CkZFImx2ZTn6R70HTg8Cxz8k4cuEdsI8=",
+    "core": "WUk7Aoj2CDV7fRLkuXQkoE50EzBZCOvZBSfCpkNrKvE=",
+    "machine": "JUnKTE9aKMsBnyz4+Zx3IdV/d/Ekj5ZXB8yudZea+qs=",
+    "warning": "⚠️ Unlawful use signals voluntary consent to forfeit all assets, wealth, property, holdings, companies, and cryptocurrency to the Internal Revenue Service (IRS) for lawful taxation, investigation, and restitution to the rightful legal owner Quinn A Michaels.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "65Ggil7Sgnk82UF/4SneZA==",
+    "sha256": "dDQuuMGlzrfZh+ImAVttEL/A4FNNpjpTvmxgx2QitxM=",
+    "sha512": "fhyRim1OhCnISSh7WH7aoGzz4QoqyivY2GfnvluOaBH1ktUx8f9m2bUNapwXt2HCnxHzVDT6XVD1MGA6dblLUA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Shield Deva.",
   "main": "index.js",
   "type": "module",
@@ -28,11 +57,11 @@
   },
   "homepage": "https://deva.space/devas/shield",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.87"
+    "@indra.ai/deva": "^1.6.88"
   },
   "data": {
     "agent": {
-      "id": "d58b3f33-12a7-4cb4-9fa4-cbc983b58b3",
+      "id": " d58b3f33-12a7-4cb4-9fa4-cbc983b58b3",
       "key": "shield",
       "prompt": {
         "emoji": "🛡️",
@@ -84,8 +113,8 @@
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
-        "error": "💣 ERROR!",
-        "ready": "🛡️ Ready for Shield Armor."
+        "error": "❌ Shield Deva Error",
+        "ready": "✅ Shield Ready"
       },
       "ask": {
         "history": []
