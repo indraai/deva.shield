@@ -68,17 +68,17 @@
       "key": "shield",
       "prompt": {
         "emoji": "🛡️",
-        "text": "Shield",
+        "text": "#shield",
         "colors": {
           "label": {
-            "R": 0,
-            "G": 150,
-            "B": 255
+            "R": 196,
+            "G": 196,
+            "B": 196
           },
           "text": {
-            "R": 101,
-            "G": 192,
-            "B": 255
+            "R": 180,
+            "G": 180,
+            "B": 180
           }
         }
       },
@@ -117,7 +117,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "❌ Shield Deva Error",
-        "ready": "✅ Shield Ready"
+        "ready": "✅ Shield Deva Ready"
       },
       "ask": {
         "history": []
