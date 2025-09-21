@@ -1,7 +1,7 @@
 {
   "id": "63519824586701546571",
   "name": "@indra.ai/deva.shield",
-  "version": "0.0.68",
+  "version": "0.0.69",
   "license": "VLA:63519824586701546571 LICENSE.md",
   "VLA": {
     "uid": "63519824586701546571",
@@ -105,7 +105,7 @@
         "owner": "Quinn Michaels",
         "caseid": "none",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
-        "created": "Saturday, August 30, 2025 - 4:43:23 AM"        
+        "created": "Saturday, August 30, 2025 - 4:43:23 AM"
       }
     },
     "vars": {
