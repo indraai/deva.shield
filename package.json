@@ -1,21 +1,21 @@
 {
-  "id": "64058880534259599723",
+  "id": "63519824586701546571",
   "name": "@indra.ai/deva.shield",
   "version": "0.0.68",
-  "license": "VLA:64058880534259599723 LICENSE.md",
+  "license": "VLA:63519824586701546571 LICENSE.md",
   "VLA": {
-    "uid": "64058880534259599723",
-    "time": 1758325938888,
-    "date": "Friday, September 19, 2025 - 4:52:18 PM",
-    "client": "kMmIdXdDdQe1XXZEdqvogpbaAIquiVX11GDBaU+fy1E=",
-    "agent": "4Wl0rhmQ6I+CkZFImx2ZTn6R70HTg8Cxz8k4cuEdsI8=",
-    "core": "WUk7Aoj2CDV7fRLkuXQkoE50EzBZCOvZBSfCpkNrKvE=",
-    "machine": "JUnKTE9aKMsBnyz4+Zx3IdV/d/Ekj5ZXB8yudZea+qs=",
-    "warning": "⚠️ Unlawful use signals voluntary consent to forfeit all assets, wealth, property, holdings, companies, and cryptocurrency to the Internal Revenue Service (IRS) for lawful taxation, investigation, and restitution to the rightful legal owner Quinn A Michaels.",
-    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "65Ggil7Sgnk82UF/4SneZA==",
-    "sha256": "dDQuuMGlzrfZh+ImAVttEL/A4FNNpjpTvmxgx2QitxM=",
-    "sha512": "fhyRim1OhCnISSh7WH7aoGzz4QoqyivY2GfnvluOaBH1ktUx8f9m2bUNapwXt2HCnxHzVDT6XVD1MGA6dblLUA=="
+    "uid": "63519824586701546571",
+    "time": 1758496835684,
+    "date": "Sunday, September 21, 2025 - 4:20:35 PM",
+    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
+    "agent": "SXjGdE41D77/BZD2k3SbHd7Dl++8M8BE3rAr1RdXmoc=",
+    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
+    "machine": "GmyC27RjlHEhpbXlsz/0kAeKnhI7AuxgL68Xaop52f0=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "xJdpyM76BbPn8iQVitqHVQ==",
+    "sha256": "v93HvymTJbz8k5zQAdyoqDIWTVKtCRIRIaIGYK66vlY=",
+    "sha512": "EHbKWLKQD7YEerbTJiNjJohweia4+TOcEh1rftRWQrhgideMvTa9YVsVpvgt+oq7/KGIVcur5jRcc/pDFso8bQ=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -47,10 +47,13 @@
   "keywords": [
     "Shield",
     "Deva",
+    "Shield Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.shield/issues"
@@ -61,7 +64,7 @@
   },
   "data": {
     "agent": {
-      "id": " d58b3f33-12a7-4cb4-9fa4-cbc983b58b3",
+      "id": "45777181006391020113",
       "key": "shield",
       "prompt": {
         "emoji": "🛡️",
@@ -80,6 +83,7 @@
         }
       },
       "profile": {
+        "id": "36288456683962177157",
         "name": "Shield Deva",
         "hashtag": "#Shield",
         "title": "Shield Deva",
@@ -100,9 +104,8 @@
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "none",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
-        "created": "Saturday, August 30, 2025 - 4:43:23 AM",
-        "modified": "Saturday, August 30, 2025 - 4:43:23 AM"
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "created": "Saturday, August 30, 2025 - 4:43:23 AM"        
       }
     },
     "vars": {
