@@ -53,7 +53,9 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.shield/issues"
@@ -97,13 +99,13 @@
         "style": "A Cyber Security Shield.",
         "system": "Deva.world.shield",
         "layout": "default",
-        "emoji": "/assets/devas/shield/emoji.png",
-        "avatar": "/assets/devas/shield/avatar.png",
-        "image": "/assets/devas/shield/image.png",
-        "background": "/assets/devas/shield/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
-        "caseid": "none",
+        "emoji": "/devas/shield/emoji.png",
+        "avatar": "/devas/shield/avatar.png",
+        "image": "/devas/shield/image.png",
+        "background": "/devas/shield/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "warning": "Indra, our best defender from the foe. May he preserve our last and middlemost, and keep watch from behind us and before. Defend us from behind, below, above, in front, on all sides, Indra, shield us well. Protect us, Indra, each to-day, each morrow, and each following day. Indra, with all thy saving helps give us assistance, Lord of power. To Indra, Lord of wealth, to Śatakratu with our lauds. Indra, Maghavan, thou Lover of the Song defend us from behind, below, above, in front, on all sides, Indra, shield us well.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, August 30, 2025 - 4:43:23 AM"
       }
