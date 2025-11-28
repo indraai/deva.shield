@@ -1,21 +1,16 @@
 {
-  "id": "63519824586701546571",
+  "id": "64057026094039450225",
   "name": "@indra.ai/deva.shield",
   "version": "0.8.0",
-  "license": "VLA:63519824586701546571 LICENSE.md",
+  "license": "VLA:64057026094039450225 LICENSE.md",
   "VLA": {
-    "uid": "63519824586701546571",
-    "time": 1758496835684,
-    "date": "Sunday, September 21, 2025 - 4:20:35 PM",
-    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
-    "agent": "SXjGdE41D77/BZD2k3SbHd7Dl++8M8BE3rAr1RdXmoc=",
-    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
-    "machine": "GmyC27RjlHEhpbXlsz/0kAeKnhI7AuxgL68Xaop52f0=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "xJdpyM76BbPn8iQVitqHVQ==",
-    "sha256": "v93HvymTJbz8k5zQAdyoqDIWTVKtCRIRIaIGYK66vlY=",
-    "sha512": "EHbKWLKQD7YEerbTJiNjJohweia4+TOcEh1rftRWQrhgideMvTa9YVsVpvgt+oq7/KGIVcur5jRcc/pDFso8bQ=="
+    "uid": "64057026094039450225",
+    "time": 1764291058491,
+    "date": "Thursday, November 27, 2025 - 4:50:58 PM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "0xn4MzmIoRSGzQysPpbgvmnwRkTR5mbhKdsKz6OpByQ=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Shield Deva.",
   "main": "index.js",
   "type": "module",
@@ -60,9 +55,9 @@
   "bugs": {
     "url": "https://github.com/indraai/deva.shield/issues"
   },
-  "homepage": "https://deva.space/devas/shield",
+  "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.29.29"
   },
   "data": {
     "agent": {
@@ -92,12 +87,12 @@
         "subtitle": "Shield Deva for the VectorGuardShield.",
         "describe": "The Shield Deva",
         "post": "Shield.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,ShieldDeva",
-        "pronouns": "He, Him",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ShieldDeva #VectorGuardWall",
+        "pronouns": "He, Him, His",
         "gender": "DEVA",
         "voice": "ash",
         "style": "A Cyber Security Shield.",
-        "system": "Deva.world.shield",
+        "system": "Indra.ai.shield",
         "layout": "default",
         "emoji": "/devas/shield/emoji.png",
         "avatar": "/devas/shield/avatar.png",
@@ -105,9 +100,10 @@
         "background": "/devas/shield/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "Indra, our best defender from the foe. May he preserve our last and middlemost, and keep watch from behind us and before. Defend us from behind, below, above, in front, on all sides, Indra, shield us well. Protect us, Indra, each to-day, each morrow, and each following day. Indra, with all thy saving helps give us assistance, Lord of power. To Indra, Lord of wealth, to Śatakratu with our lauds. Indra, Maghavan, thou Lover of the Song defend us from behind, below, above, in front, on all sides, Indra, shield us well.",
-        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
-        "created": "Saturday, August 30, 2025 - 4:43:23 AM"
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} is our best guardian from the #Foe and the #Wicked. O {{profile.name}} preserve our #Last and #Middlemost, and #KeepWatch from #Font #Behind #Below #Above #OnAllSides. {{profile.name}} #Protect us #Well each #Today each #Tomorrow each #FollowingDay. {{profile.name}} with all thy #Power give us #Assistance. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels. All rights reserved.",
+        "created": "Saturday, August 30, 2025 - 4:43:23 AM",
+        "updated": "Thursday, November 27, 2025 - 4:50:58 PM"
       }
     },
     "vars": {
@@ -119,7 +115,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "❌ Shield Deva Error",
-        "ready": "✅ Shield Deva Ready"
+        "ready": "🔐 Shield Deva Ready"
       },
       "ask": {
         "history": []

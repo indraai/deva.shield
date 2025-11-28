@@ -1,8 +1,10 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:63519824586701546571 LICENSE.md
-// Vector Deva
+// Distributed under VLA:64057026094039450225 LICENSE.md
+// Thursday, November 27, 2025 - 4:50:58 PM
+
+// Shield Deva
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
@@ -30,7 +32,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const SHIELD = new Deva({
+const ShieldDeva = new Deva({
   info,
   agent,
   vars,
@@ -62,5 +64,5 @@ const SHIELD = new Deva({
     return reject(err);
   },
 });
-export default SHIELD
+export default ShieldDeva
 
