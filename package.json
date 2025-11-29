@@ -57,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.29"
+    "@indra.ai/deva": "^1.29.31"
   },
   "data": {
     "agent": {
@@ -68,21 +68,21 @@
         "text": "#shield",
         "colors": {
           "label": {
-            "R": 196,
-            "G": 196,
-            "B": 196
+            "R": 247,
+            "G": 117,
+            "B": 255
           },
           "text": {
-            "R": 180,
-            "G": 180,
-            "B": 180
+            "R": 117,
+            "G": 153,
+            "B": 255
           }
         }
       },
       "profile": {
         "id": "36288456683962177157",
         "name": "Shield Deva",
-        "hashtag": "#Shield",
+        "hashtag": "#ShieldDeva",
         "title": "Shield Deva",
         "subtitle": "Shield Deva for the VectorGuardShield.",
         "describe": "The Shield Deva",
