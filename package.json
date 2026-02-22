@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -57,7 +58,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.31"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -87,7 +88,7 @@
         "subtitle": "Shield Deva for the VectorGuardShield.",
         "describe": "The Shield Deva",
         "post": "Shield.",
-        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ShieldDeva #VectorGuardWall",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ShieldDeva #ShieldPRIME #VectorGuardShield.activate",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "voice": "ash",
@@ -100,8 +101,8 @@
         "background": "/devas/shield/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} is our best guardian from the #Foe and the #Wicked. O {{profile.name}} preserve our #Last and #Middlemost, and #KeepWatch from #Font #Behind #Below #Above #OnAllSides. {{profile.name}} #Protect us #Well each #Today each #Tomorrow each #FollowingDay. {{profile.name}} with all thy #Power give us #Assistance. {{profile.hashtags}}",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels. All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declaresis our BEST SHIELD from the FOE and the WICKED. {{profile.name}} PRESERVE our LAST and MIDDLEMOST, and KEEP WATCH from FONT, BEHIND, BELOW, ABOVE, and ON ALL SIDES. {{profile.name}} SHIELD us WELL each TODAY, each TOMORROW, and each FOLLOWING DAY. With all thy POWER give us #Assistance. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels. All rights reserved.",
         "created": "Saturday, August 30, 2025 - 4:43:23 AM",
         "updated": "Thursday, November 27, 2025 - 4:50:58 PM"
       }
