@@ -61,7 +61,7 @@ const ShieldDeva = new Deva({
   onError(data, err, reject) {
     this.prompt(this.vars.messages.error);
     console.log(err);
-    return reject(err);
+    return reject ? reject(err) : Promise.reject(err);
   },
 });
 export default ShieldDeva
